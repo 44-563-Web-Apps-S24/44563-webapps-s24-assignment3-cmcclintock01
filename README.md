@@ -2,4 +2,4 @@
 # WebApps-F24-Assignment-3
 Assignment 3 - Basic HTML
 
-Hosted at [this github](https://github.com/44-563-Web-Apps-S24/44563-webapps-s24-assignment3-cmcclintock01/settings/pages)
+Hosted at [this github](https://44-563-web-apps-s24.github.io/44563-webapps-s24-assignment3-cmcclintock01/)
